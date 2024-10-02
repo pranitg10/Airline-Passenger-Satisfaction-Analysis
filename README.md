@@ -2,7 +2,8 @@
 
 This analysis reveals key trends and offers recommendations for airlines to improve their services. 
 I used EDA & Tableau to analyze airline passenger satisfaction reviews. 
-I looked at factors like service quality to see how things like seat comfort, food, and entertainment affect satisfaction. 
+I looked at factors like service quality to see how things like seat comfort, food, Ease of online booking, Departure & arrival, and In-flight entertainment service affect customer satisfaction. 
+The analysis reveals key trends and offers recommendations for airlines to improve their services.
 
 ### Project Overview
 
