@@ -24,7 +24,7 @@ Airlines face challenges like declining passenger numbers and poor service, whic
 
 ### Data Cleaning:
 
-Handling missing values and outliers (e.g., departure/arrival delays, age)
+Handling missing values and outliers (e.g., departure/arrival delays)
 Visualizations using box plots and histograms to better understand distributions
 
 ### Exploratory Data Analysis (EDA)
